@@ -1,4 +1,4 @@
-# tweet_censor_bot
+# tweet_censor
 
 Makers Academy exercise for precourse, Mastery curriculum, ch. 7 on Arrays.
 
